@@ -1,7 +1,7 @@
-# Connor Harrison
-# 11/10/26
-# Task A: Class Schedule Card
-# prints a daily schedule card for the IT Academy.
+# Name: Connor Harrison
+# Date: 11/10/26
+# Program: Task A: Class Schedule Card
+# Description: prints a daily schedule card for the IT Academy.
 print("*" * 34)
 print("  MEDINA COUNTY CAREER CENTER")
 print("  IT Academy - Daily Schedule")
