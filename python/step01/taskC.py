@@ -1,18 +1,20 @@
 # Task C: Program Help Screen
 
 print("=" * 44)
-print("  GRADEBOOK  version 1.0\n  A tool for tracking class scores")
+print("  GRADEBOOK  version 1.0\n  A tool for tracking class scores") # title 
 print("=" * 44)
-print("USAGE:\n  gradebook [option] [file]")
+print("USAGE:\n  gradebook [option] [file]") # usage
 print()
-print("OPTIONS:")
+print("OPTIONS:") # options
 print("  -a    Add a new score")
 print("  -l    List all scores")
 print("  -r    Print a report")
 print("  -h    Show this help screen")
 print()
-print("EXAMPLES:\n  gradebook -l C:\\BPA\\scores.txt")
+print("EXAMPLES:\n  gradebook -l C:\\BPA\\scores.txt") # examples
 print("  gradebook -a \"Quiz 3\"")
 print("-" * 44)
-print("Tip: options are case sensitive.\n-A is not the same as -a.")
+print("Tip: options are case sensitive.\n-A is not the same as -a.") # footer
 print("=" * 44)
+
+# print("Debug mode is on")
